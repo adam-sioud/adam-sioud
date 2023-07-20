@@ -39,7 +39,7 @@ You can find more of my work on my [projects page](https://github.com/AdamSioud?
   </tr>
 </table>
 
-🔄 **NOTE**: I also have some of my earlier work on my [old GitHub account](https://github.com/AdamSioud-old). Feel free to take a look!
+🔄 **NOTE**: I also have some of my earlier work on my [old GitHub account]([https://github.com/AdamSioud-old](https://github.com/AdamSioud)).
 
 
 
