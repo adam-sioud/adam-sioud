@@ -29,7 +29,7 @@ I'm currently learning more about:
 ## 📫 Get In Touch
 
 - Twitter: [@AdamSioud](https://twitter.com/AdamSioud)
-- LinkedIn: [Adam Sioud](https://www.linkedin.com/in/adamsioud)
+- LinkedIn: [Adam Sioud](https://www.linkedin.com/in/adam-sioud)
 
 🔄 **NOTE**: I also have some of my earlier work on my [old GitHub account](https://github.com/AdamSioud-old). Feel free to take a look!
 
