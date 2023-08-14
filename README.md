@@ -1,23 +1,8 @@
-<table>
-  <tr>
-    <td valign="top" width="50%">
+
 
 ## 📚 About Me
 
 - 🌐 I've been involved in software development for the last several years, constantly learning and improving my skills.
-- 🧩 My main areas of expertise are in web development and data analysis, but I'm always eager to dive into new technologies.
-- 🔄 I believe in the power of Open Source, and I try to contribute back to the community whenever I can.
-
-## 🌱 What I'm Learning
-
-I'm currently learning more about:
-
-- Machine Learning and AI 
-- Mobile App Development
-- Cybersecurity
-
-    </td>
-    <td valign="top" width="50%">
 
 ## 🔭 My Work
 
@@ -35,9 +20,6 @@ You can find more of my work on my [projects page](https://github.com/AdamSioud?
 - Twitter: [@AdamSioud](https://twitter.com/AdamSioud)
 - LinkedIn: [Adam Sioud](https://www.linkedin.com/in/adamsioud)
 
-    </td>
-  </tr>
-</table>
 
 <!---
 adam-sioud/adam-sioud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
