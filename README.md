@@ -2,7 +2,7 @@
 
 ## 📚 About Me
 
-- 🌐 I've been involved in software development for the last several years, constantly learning and improving my skills.
+I've been involved in software development for the last several years, constantly learning and improving my skills.
 
 ## 🔭 My Work
 
