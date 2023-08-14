@@ -39,10 +39,6 @@ You can find more of my work on my [projects page](https://github.com/AdamSioud?
   </tr>
 </table>
 
-🔄 **NOTE**: I also have some of my earlier work on my [old GitHub account]([https://github.com/AdamSioud-old](https://github.com/AdamSioud)).
-
-
-
 <!---
 adam-sioud/adam-sioud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
