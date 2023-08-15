@@ -1,10 +1,10 @@
 
 
-## 📚 About Me
+##  About Me
 
 I've been involved in software development for the last several years, constantly learning and improving my skills.
 
-## 🔭 My Work
+## My Work
 
 Here are some of the projects I'm most proud of:
 
@@ -15,7 +15,7 @@ Here are some of the projects I'm most proud of:
 
 You can find more of my work on my [projects page](https://github.com/AdamSioud?tab=repositories).
 
-## 📫 Get In Touch
+## Get In Touch
 
 - Twitter: [@AdamSioud](https://twitter.com/AdamSioud)
 - LinkedIn: [Adam Sioud](https://www.linkedin.com/in/adamsioud)
