@@ -8,12 +8,11 @@ I've been involved in software development for the last several years, constantl
 
 Here are some of the projects I'm most proud of:
 
-1. [Project A](https://github.com/AdamSioud/ProjectA) - A detailed description about Project A.
+1. [Project A](https://github.com/AdamSioud/sen) - A detailed description about Project A.
 2. [Project B](https://github.com/AdamSioud/ProjectB) - A summary of what Project B involves.
 3. [Project C](https://github.com/AdamSioud/ProjectC) - Some information about Project C.
-4. [Project D](https://github.com/AdamSioud/ProjectC) - Some information about Project C.
-
-You can find more of my work on my [projects page](https://github.com/AdamSioud?tab=repositories).
+4. [Project D](https://github.com/AdamSioud/ProjectC) - Some information about Project D.
+4. [Project D](https://github.com/AdamSioud/ProjectC) - Some information about Project E.
 
 ## Get In Touch
 
