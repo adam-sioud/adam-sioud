@@ -2,21 +2,22 @@
 
 ##  About Me
 
-I've been involved in software development for the last several years, constantly learning and improving my skills.
+Right now I'm working on going from demo to production-ready projects in the field of Causal and Generative AI.
+Just exploring, curious about most things. 
 
 ## My Work
 
 Here are some of the projects I'm most proud of:
 
-1. [Project A](https://github.com/AdamSioud/sen) - A detailed description about Project A.
-2. [Project B](https://github.com/AdamSioud/ProjectB) - A summary of what Project B involves.
-3. [Project C](https://github.com/AdamSioud/ProjectC) - Some information about Project C.
-4. [Project D](https://github.com/AdamSioud/ProjectC) - Some information about Project D.
-4. [Project D](https://github.com/AdamSioud/ProjectC) - Some information about Project E.
+1. [MINTA](https://github.com/AdamSioud/sen) - IOS NFT Application - Four students hack their way through the Solana Riptide Hackathon
+2. [CMC-DETECTIVE](https://github.com/AdamSioud/CMC-DETECTIVE) - An trading bot that can frontrun telegram-bots on coinmarketcap listings.
+3. [Customer Driven Project]([https://github.com/AdamSioud/ProjectC](https://github.com/AdamSioud/Trondheim-Kommune-Kundeprosjekt)) - Trondheim Kommune has commissioned a group of students to create a prototype to find out the best place to live in Trondheim according to certain criteria
+4. [DataDash](https://github.com/AdamSioud/Start-NTNU-Hackathon-2022) - An application that let's you fast build dashboard for you specific use case. 
+
 
 ## Get In Touch
 
-- Twitter: [@AdamSioud](https://twitter.com/AdamSioud)
+- Twitter: [@adamds23](https://twitter.com/adamds23)
 - LinkedIn: [Adam Sioud](https://www.linkedin.com/in/adamsioud)
 
 
