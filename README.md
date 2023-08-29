@@ -4,7 +4,7 @@
 
 Right now I'm working on going from demo to production-ready projects in the field of Causal and Generative AI.
 Just exploring, curious about most things. 
-Most of my work is on this github user -> [https://github.com/AdamSioud]
+Most of my work is on this github user -> [AdamSioud](https://github.com/AdamSioud)
 ## My Work
 
 Here are some of the projects I'm most proud of:
