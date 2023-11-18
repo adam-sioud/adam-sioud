@@ -18,7 +18,7 @@ Here are some of the projects I'm most proud of:
 ## Get In Touch
 
 - Twitter: [@adamds23](https://twitter.com/adamds23)
-- LinkedIn: [Adam Sioud](https://www.linkedin.com/in/adamsioud)
+- LinkedIn: [Adam Sioud](https://www.linkedin.com/in/adam-sioud)
 
 
 <!---
