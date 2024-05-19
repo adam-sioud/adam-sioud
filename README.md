@@ -1,5 +1,5 @@
 -- it was poetic--
--- [Projexts](https://www.linkedin.com/in/adam-sioud) --
+/n [Projects](https://www.linkedin.com/in/adam-sioud) --
 <!--
 
 ##  About Me
