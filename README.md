@@ -1,5 +1,5 @@
 -- it was poetic--
--- [My website]([https://www.linkedin.com/in/adam-sioud](https://www.adamsioud.com/)) --
+-- [Projexts](https://www.linkedin.com/in/adam-sioud) --
 <!--
 
 ##  About Me
