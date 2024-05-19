@@ -1,4 +1,5 @@
-
+--poetic--
+<!--
 
 ##  About Me
 
@@ -19,7 +20,7 @@ Here are some of the projects I'm most proud of:
 
 - LinkedIn: [Adam Sioud](https://www.linkedin.com/in/adam-sioud)
 
-
+-->
 <!---
 adam-sioud/adam-sioud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
