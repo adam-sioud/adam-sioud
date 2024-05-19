@@ -1,4 +1,5 @@
---poetic--
+-- it was poetic--
+-- [My website]([https://www.linkedin.com/in/adam-sioud](https://www.adamsioud.com/)) --
 <!--
 
 ##  About Me
