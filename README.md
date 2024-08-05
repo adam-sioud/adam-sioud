@@ -1,6 +1,6 @@
 -- it was poetic --
 
-[Projects](https://www.linkedin.com/in/adam-sioud)
+[LinkedIn](https://www.linkedin.com/in/adam-sioud)
 <!--
 
 ##  About Me
