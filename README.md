@@ -1,5 +1,12 @@
 -- it was poetic --
 
+
+--- projects ---
+[Customer Driven Project](https://www.canva.com/design/DAFSGZOpYkk/1genLmDENc6ZO5EK08Mq4Q/view) - Trondheim Municipality  tasked a group of students to develop an interactive map to determine the best place to live in Trondheim based on specific criteria.
+[MINTA](https://github.com/AdamSioud/MINTA) - IOS NFT Application - Four students hack their way through the Solana Riptide Hackathon
+[JOFEADAR](https://github.com/AdamSioud/Start-NTNU-Hackathon-2022) - An application that let's you fast build dashboard for you specific use case. 
+[CMC-DETECTIVE](https://github.com/AdamSioud/CMC-DETECTIVE) - An trading bot that can frontrun telegram-bots on coinmarketcap listings.
+
 [LinkedIn](https://www.linkedin.com/in/adam-sioud)
 <!--
 
