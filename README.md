@@ -1,12 +1,12 @@
 -- it was poetic --
-
+[LinkedIn](https://www.linkedin.com/in/adam-sioud)
 ## Projects
 - [Customer Driven Project](https://www.canva.com/design/DAFSGZOpYkk/1genLmDENc6ZO5EK08Mq4Q/view) - Trondheim Municipality tasked a group of students with developing an interactive map to determine the best place to live in Trondheim based on specific criteria.
 - [MINTA](https://github.com/AdamSioud/MINTA) - iOS NFT Application - Four students hack their way through the Solana Riptide Hackathon.
 - [JOFEADAR](https://github.com/AdamSioud/Start-NTNU-Hackathon-2022) - An application that lets you quickly build a dashboard for your specific use case.
 - [CMC-DETECTIVE](https://github.com/AdamSioud/CMC-DETECTIVE) - A trading bot that can front-run Telegram bots on CoinMarketCap listings.
 
-[LinkedIn](https://www.linkedin.com/in/adam-sioud)
+
 
 <!--
 
