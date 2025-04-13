@@ -1,5 +1,5 @@
 -- it was poetic --
-[LinkedIn](https://www.linkedin.com/in/adam-sioud) -- [Personal Website](https://adamsioud.com)
+[LinkedIn](https://www.linkedin.com/in/adam-sioud) -- [Personal Website](https://adamsioud.com) -- [X]([https://adamsioud.co](https://x.com/gustofied))
 
 
 
